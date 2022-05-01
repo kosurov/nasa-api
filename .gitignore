@@ -1,0 +1,9 @@
+# Системные
+Thumbs.db
+
+# Intellij
+.idea/
+
+# Gradle
+.gradle/
+build/
